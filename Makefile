@@ -1,5 +1,5 @@
 PWD := $(shell pwd)
-COMPE := titanic
+COMPE := digit-recognizer
 
 setup:
 	docker pull kaggle/python
